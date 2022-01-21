@@ -1,1 +1,1 @@
-[CV#1. Markdown & Git](https://github.com/Alexandr071990/rsschool-cv/tree/gh-pages)
+[CV#1. Markdown & Git](https://github.com/Alexandr071990/rsschool-cv/blob/gh-pages/cv.md)
